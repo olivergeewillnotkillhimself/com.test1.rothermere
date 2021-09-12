@@ -1,1 +1,3 @@
-# com.test1.rothermere
+## Practice project for rothermere anonymous chat room
+# reading material
+[Spring](https://spring.io/guides)
